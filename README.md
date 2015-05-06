@@ -1,2 +1,1 @@
-# acad_lessons
-acad assignment uploads
+# venue to publish code for acad
